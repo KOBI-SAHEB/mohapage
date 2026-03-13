@@ -1,0 +1,15 @@
+{
+  "name": "universe-king",
+  "version": "1.0.0",
+  "description": "A Facebook-like app with audio upload feature.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    // List of dependencies can be added later
+  },
+  "devDependencies": {},
+  "author": "KOBI-SAHEB",
+  "license": "ISC"
+}
